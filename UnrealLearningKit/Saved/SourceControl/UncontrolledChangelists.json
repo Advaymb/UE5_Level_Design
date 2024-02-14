@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/advay_3liss2m/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/Test1.umap",
+				"C:/Users/advay_3liss2m/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/BP_Hud.uasset",
+				"C:/Users/advay_3liss2m/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/advay_3liss2m/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/BP_HealthPack.uasset",
+				"C:/Users/advay_3liss2m/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/Cone_Blueprint.uasset",
+				"C:/Users/advay_3liss2m/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/Enemies/Pursuer/Pursuer_AIController.uasset",
+				"C:/Users/advay_3liss2m/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/Enemies/Pursuer/BP_Pursuer.uasset",
+				"C:/Users/advay_3liss2m/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/BasicShapeMaterial.uasset",
+				"C:/Users/advay_3liss2m/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/BP_Coin.uasset",
+				"C:/Users/advay_3liss2m/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/BP_GameOver.uasset",
+				"C:/Users/advay_3liss2m/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/Enemies/Pursuer/EAIState.uasset",
+				"C:/Users/advay_3liss2m/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/IthrisCemetery/Materials/Tilable/Dirt/MI_Dirt_02.uasset",
+				"C:/Users/advay_3liss2m/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/IthrisCemetery/Geometry/Prop/Statue_Praying_01/SM_Statue_Praying_01a_Blueprint.uasset",
+				"C:/Users/advay_3liss2m/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/Level_Design/BasicShapeMaterial.uasset",
+				"C:/Users/advay_3liss2m/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/Level_Design/BP_Coin.uasset",
+				"C:/Users/advay_3liss2m/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/Level_Design/BP_GameOver.uasset",
+				"C:/Users/advay_3liss2m/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/Level_Design/BP_HealthPack.uasset",
+				"C:/Users/advay_3liss2m/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/Level_Design/BP_Hud.uasset",
+				"C:/Users/advay_3liss2m/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/Level_Design/Cone_Blueprint.uasset",
+				"C:/Users/advay_3liss2m/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/Level_Design/Test1.umap",
+				"C:/Users/advay_3liss2m/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/Level_Design/Enemies/Pursuer/Pursuer_AIController.uasset",
+				"C:/Users/advay_3liss2m/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/Level_Design/Enemies/Pursuer/EAIState.uasset",
+				"C:/Users/advay_3liss2m/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/Level_Design/Enemies/Pursuer/BP_Pursuer.uasset",
+				"C:/Users/advay_3liss2m/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/Enemies/Pursuer_AIController.uasset",
+				"C:/Users/advay_3liss2m/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/Enemies/BP_Pursuer.uasset"
+			]
+		}
+	]
+}
