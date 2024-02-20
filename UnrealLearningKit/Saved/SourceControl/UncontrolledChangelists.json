@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/UE5/Project files/UE5_Level_Design/UnrealLearningKit/Content/Level_Design/Enemies/Mortar/BP_Mortar_Body.uasset",
+				"C:/UE5/Project files/UE5_Level_Design/UnrealLearningKit/Content/Level_Design/Enemies/Mortar/BP_Bullet.uasset",
+				"C:/UE5/Project files/UE5_Level_Design/UnrealLearningKit/Content/Level_Design/BP_World_End.uasset",
+				"C:/UE5/Project files/UE5_Level_Design/UnrealLearningKit/Content/Level_Design/Test1.umap",
+				"C:/UE5/Project files/UE5_Level_Design/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
 				"C:/Users/advay_3liss2m/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/Test1.umap",
 				"C:/Users/advay_3liss2m/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/BP_Hud.uasset",
 				"C:/Users/advay_3liss2m/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
