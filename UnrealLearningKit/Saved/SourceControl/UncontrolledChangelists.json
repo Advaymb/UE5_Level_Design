@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/advay_3liss2m/OneDrive/Documents/GitHub/UE5_Level_Design/UnrealLearningKit/Content/Level_Design/Enemies/Mortar/BP_Bullet.uasset",
+				"C:/Users/advay_3liss2m/OneDrive/Documents/GitHub/UE5_Level_Design/UnrealLearningKit/Content/Level_Design/Enemies/Mortar/BP_Mortar_Body.uasset",
+				"C:/Users/advay_3liss2m/OneDrive/Documents/GitHub/UE5_Level_Design/UnrealLearningKit/Content/Level_Design/Enemies/Pursuer/NewBlueprint.uasset",
+				"C:/Users/advay_3liss2m/OneDrive/Documents/GitHub/UE5_Level_Design/UnrealLearningKit/Content/Level_Design/Enemies/Pursuer/BP_Pu.uasset",
+				"C:/Users/advay_3liss2m/OneDrive/Documents/GitHub/UE5_Level_Design/UnrealLearningKit/Content/Level_Design/Test1.umap",
+				"C:/Users/advay_3liss2m/OneDrive/Documents/GitHub/UE5_Level_Design/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/advay_3liss2m/OneDrive/Documents/GitHub/UE5_Level_Design/UnrealLearningKit/Content/Level_Design/Enemies/Pursuer/BP_Pursuer.uasset",
 				"C:/UE5/Project files/UE5_Level_Design/UnrealLearningKit/Content/Level_Design/Enemies/Mortar/BP_Mortar_Body.uasset",
 				"C:/UE5/Project files/UE5_Level_Design/UnrealLearningKit/Content/Level_Design/Enemies/Mortar/BP_Bullet.uasset",
 				"C:/UE5/Project files/UE5_Level_Design/UnrealLearningKit/Content/Level_Design/BP_World_End.uasset",
